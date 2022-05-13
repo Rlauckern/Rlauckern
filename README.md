@@ -1,4 +1,4 @@
-<h1 align="center">Hello There, I'm Reed!</h1>
+<h1 align="center">Hello there, I'm Reed!</h1>
 <h3 align="center">A passionate frontend developer based in San Francisco</h3>
 
 - 🔭 I’m currently working on **my portfolio.**
