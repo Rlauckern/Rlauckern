@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **my portfolio.**
 
-- 🌱 I’m currently learning **Java.**
-
 - 👨‍💻 Most of my projects are available on my <a href="https://github.com/Rlauckern">Github</a>
 
 - 📫 How to reach me **r.lauckern@gmail.com**
