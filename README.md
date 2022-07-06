@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Reed!</h1>
-<h3 align="center">A passionate frontend developer based in San Francisco</h3>
+<h3 align="center">A passionate full-stack  engineer based in San Francisco</h3>
 
 - 🔭 I’m currently working on **my portfolio.**
 
